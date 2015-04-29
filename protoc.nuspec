@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>protoc</id>
+    <version>2.6.1</version>
+    <title>Protocol Compiler</title>
+    <authors>google</authors>
+    <owners>keen</owners>
+    <licenseUrl>https://raw.githubusercontent.com/google/protobuf/master/LICENSE</licenseUrl>
+    <projectUrl>https://developers.google.com/protocol-buffers/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Protocol Compiler compiles Google protocol buffer .proto files. Protocol buffers are a flexible, efficient, automated mechanism for serializing structured data.</description>
+    <summary>protoc compiler compiled by google using mingw</summary>
+    <releaseNotes>https://groups.google.com/forum/#!msg/protobuf/jKhb4_5Xhec/14AMJyoKryIJ</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>protoc protobuf</tags>
+  </metadata>
+</package>
