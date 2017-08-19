@@ -11,7 +11,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Protocol Compiler compiles Google protocol buffer .proto files. Protocol buffers are a flexible, efficient, automated mechanism for serializing structured data.</description>
     <summary>protoc compiler compiled by google using mingw</summary>
-    <releaseNotes>https://groups.google.com/forum/#!msg/protobuf/jKhb4_5Xhec/14AMJyoKryIJ</releaseNotes>
+    <releaseNotes>https://github.com/google/protobuf/releases/tag/v3.4.0</releaseNotes>
     <copyright>Copyright 2014</copyright>
     <tags>protoc protobuf</tags>
   </metadata>
